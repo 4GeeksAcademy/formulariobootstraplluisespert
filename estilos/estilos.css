@@ -1,0 +1,15 @@
+.textoIzquierda{
+
+    text-align: left;
+
+}
+
+.flex-container {
+
+    display: flex;
+
+    justify-content: flex-end;
+
+    padding: 5px;
+
+  }
